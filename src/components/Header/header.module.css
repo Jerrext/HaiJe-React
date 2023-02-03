@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0d1117;
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    box-sizing: border-box;
+    padding: 0 30px;
+}
+
+.logoWrapper {
+
+}
+
+.search {
+
+}
+
+.controlsMenu {
+
+}
+
+.logo {
+    width: 100px;
+}
