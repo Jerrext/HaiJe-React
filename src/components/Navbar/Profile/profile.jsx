@@ -1,10 +1,10 @@
 import React from 'react';
 import s from './profile.module.css';
 
-const Profile = () => {
+const Profile = (props) => {
   return (
-    <div className={s.profile}>
-      
+    <div>
+
     </div>
   );
 }
